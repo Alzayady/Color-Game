@@ -1,0 +1,82 @@
+.ss{
+    height: 200px;
+    background-color: #3b76ad;
+    color: white;
+    line-height: 2px;
+}
+.io{
+    height: 550px;;
+    
+}
+p{
+     line-height: 40px;
+}
+#rr{
+    height: 26px ;
+    line-height:20px;
+}
+.p{
+-webkit-transition :all 1s;
+-moz-transition :all 1s;
+}
+button{
+    transition : all .5s;
+    outline: none;
+}
+button:hover{
+    color: white;
+    background-color: #3b76ad;
+    
+}
+.t{
+    width: 60%;
+    margin: auto;
+}
+.try{
+    width: 30%;
+    margin: 1.66%;
+    display: inline-block;
+}
+.di{
+    width: 600px;
+}
+.ed{
+    border: 0px;
+    background-color: white;
+    color: #3b76ad;
+    outline: none;
+}
+.fight{
+    color: white;
+    background-color:#3b76ad;
+}
+.iii{
+    height: 1000px;;
+}
+.imp{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.containe{
+    width: 60%;
+}
+.ii{
+    
+}
+@media screen and (max-width: 992px) {
+    .imp{
+        width: 130px;
+        height: 130px;
+        
+    }
+}
+@media screen and (max-width: 600px) {
+  .imp{
+        width: 115px;
+        height: 125px;
+    }
+    .ii{
+        width: 410px;
+    }
+}
